@@ -1,6 +1,6 @@
 //
 // TOTALLY EFFIN'RAD MAN. 80's theme
-// by @Vixus 
+// by @Vixus
 //
 
 windowBg: #1D1D1D;
@@ -217,19 +217,19 @@ historyScrollBarBgOver: #556e83bc;
 historyScrollBg: #556e834c;
 historyScrollBgOver: #556e836b;
 msgInBg: windowBg;
-msgInBgSelected: #1F1F1F;
+msgInBgSelected: #8344AD;
 msgOutBg: #C34876;
-msgOutBgSelected: #1F1F1F;
-msgSelectOverlay: #358cd44c;
-msgStickerOverlay: #358cd47f;
+msgOutBgSelected: #8344AD;
+msgSelectOverlay: #8344AD7f;
+msgStickerOverlay: #8344AD7f;
 msgInServiceFg: #faa774;
 msgInServiceFgSelected: #8E44AD;
 msgOutServiceFg: #333333;
 msgOutServiceFgSelected: #C34876;
 msgInShadow: #748ea229;
-msgInShadowSelected: #548dbb29;
+msgInShadowSelected: #C34876;
 msgOutShadow: #3ac34740;
-msgOutShadowSelected: #37a78e40;
+msgOutShadowSelected: #C34876;
 msgInDateFg: #a0acb6;
 msgInDateFgSelected: #6a9cc5;
 msgOutDateFg: #333333;
